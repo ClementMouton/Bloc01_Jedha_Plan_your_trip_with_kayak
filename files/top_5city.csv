@@ -1,0 +1,6 @@
+,index,name,latitude,longitude,Humidity,Temperature_avg,Temperature_min,Temperature_max,Temperature_perceived,Wind_speed,Cloudiness,Precipitation_prob,Cloudiness_adjusted,Precipitation_prob_adjusted
+27,27,Collioure,42.52505,3.0831554,39,25.79,15.59,26.21,25.44,7.27,16,0,16.1,0.1
+18,18,Bormes les Mimosas,43.1506968,6.3419285,35,25.14,16.45,25.37,24.62,10.39,7,0,7.1,0.1
+20,20,Marseille,43.2961743,5.3699525,47,23.03,18.23,23.84,22.62,13.0,23,0,23.1,0.1
+25,25,Aigues Mortes,43.5661521,4.19154,47,22.81,16.76,22.98,22.37,10.36,11,0,11.1,0.1
+24,24,Nimes,43.8374249,4.3600687,45,22.63,13.86,22.73,22.12,7.82,33,21,33.1,21.1
